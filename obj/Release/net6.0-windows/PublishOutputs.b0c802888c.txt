@@ -1,0 +1,14 @@
+E:\StockVisbekInstallation\StockVisbek.exe
+E:\StockVisbekInstallation\StockVisbek.dll
+E:\StockVisbekInstallation\StockVisbek.deps.json
+E:\StockVisbekInstallation\StockVisbek.runtimeconfig.json
+E:\StockVisbekInstallation\StockVisbek.pdb
+E:\StockVisbekInstallation\Google.Protobuf.dll
+E:\StockVisbekInstallation\K4os.Compression.LZ4.dll
+E:\StockVisbekInstallation\K4os.Compression.LZ4.Streams.dll
+E:\StockVisbekInstallation\K4os.Hash.xxHash.dll
+E:\StockVisbekInstallation\MySql.Data.dll
+E:\StockVisbekInstallation\ZstdNet.dll
+E:\StockVisbekInstallation\BouncyCastle.Crypto.dll
+E:\StockVisbekInstallation\System.Speech.dll
+E:\StockVisbekInstallation\runtimes\win\lib\net6.0\System.Speech.dll

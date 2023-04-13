@@ -1,0 +1,7 @@
+C:\VisualStudio\StockVisbek\obj\Debug\netcoreapp3.1\StockVisbek.vbproj.AssemblyReference.cache
+C:\VisualStudio\StockVisbek\obj\Debug\netcoreapp3.1\StockVisbek.Form1.resources
+C:\VisualStudio\StockVisbek\obj\Debug\netcoreapp3.1\StockVisbek.vbproj.GenerateResource.cache
+C:\VisualStudio\StockVisbek\obj\Debug\netcoreapp3.1\StockVisbek.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio\StockVisbek\obj\Debug\netcoreapp3.1\StockVisbek.AssemblyInfoInputs.cache
+C:\VisualStudio\StockVisbek\obj\Debug\netcoreapp3.1\StockVisbek.AssemblyInfo.vb
+C:\VisualStudio\StockVisbek\obj\Debug\netcoreapp3.1\StockVisbek.vbproj.CoreCompileInputs.cache

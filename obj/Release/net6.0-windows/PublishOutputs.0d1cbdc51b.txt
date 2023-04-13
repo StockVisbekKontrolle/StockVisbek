@@ -1,0 +1,12 @@
+E:\StockVisbek.exe
+E:\StockVisbek.dll
+E:\StockVisbek.deps.json
+E:\StockVisbek.runtimeconfig.json
+E:\StockVisbek.pdb
+E:\Google.Protobuf.dll
+E:\K4os.Compression.LZ4.dll
+E:\K4os.Compression.LZ4.Streams.dll
+E:\K4os.Hash.xxHash.dll
+E:\MySql.Data.dll
+E:\ZstdNet.dll
+E:\BouncyCastle.Crypto.dll
